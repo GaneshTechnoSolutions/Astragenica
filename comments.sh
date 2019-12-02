@@ -10,4 +10,4 @@ echo Devops
 COMMENT1
 
 echo "lines are commented"
-
+date
