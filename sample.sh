@@ -1,5 +1,5 @@
 #!/bin/bash
-date
+#date:06/12/2019
 <<COMMENT
 
 
